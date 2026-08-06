@@ -123,4 +123,4 @@ Este projeto foi desenvolvido com o auxílio de Inteligência Artificial como fe
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-GitHub: https://github.com/SEU-USUARIO****
+GitHub: https://github.com/Mauricio-dev777
