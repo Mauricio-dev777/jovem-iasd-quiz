@@ -65,7 +65,7 @@ Quiz-Jovem-IASD/
 Clone o projeto:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Quiz-Jovem-IASD.git
+git clone (https://github.com/Mauricio-dev777/jovem-iasd-quiz.git
 ```
 
 Entre na pasta:
