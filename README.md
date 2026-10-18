@@ -4,7 +4,7 @@ Sistema de quiz em tempo real desenvolvido para eventos do grupo de jovens da Ig
 
 Os participantes acessam o quiz pelo celular, enquanto o apresentador controla toda a dinâmica pelo computador. As perguntas, respostas e ranking são sincronizados em tempo real utilizando WebSockets.
 
-Obs: O sistema foi projetado para rodar no host Render, porem por algum motivo desconhecido Host não consegue encontrar o arquivo "package.json" que está na pasta base, infelizmente nao sei como corrigir isso.
+Obs: O sistema foi projetado para rodar no host Render, porém por algum motivo desconhecido Host não consegue encontrar o arquivo "package.json" que está na pasta base, infelizmente nao sei como corrigir isso.
 
 ---
 
